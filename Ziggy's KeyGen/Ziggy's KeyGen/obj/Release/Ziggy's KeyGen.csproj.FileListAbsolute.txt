@@ -1,0 +1,7 @@
+C:\Users\yigit\source\repos\Ziggy's KeyGen\Ziggy's KeyGen\bin\Release\Ziggy's KeyGen.exe.config
+C:\Users\yigit\source\repos\Ziggy's KeyGen\Ziggy's KeyGen\bin\Release\Ziggy's KeyGen.exe
+C:\Users\yigit\source\repos\Ziggy's KeyGen\Ziggy's KeyGen\obj\Release\Ziggy's KeyGen.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\Ziggy's KeyGen\Ziggy's KeyGen\obj\Release\Ziggy_s_KeyGen.Main.resources
+C:\Users\yigit\source\repos\Ziggy's KeyGen\Ziggy's KeyGen\obj\Release\Ziggy_s_KeyGen.Properties.Resources.resources
+C:\Users\yigit\source\repos\Ziggy's KeyGen\Ziggy's KeyGen\obj\Release\Ziggy's KeyGen.csproj.GenerateResource.cache
+C:\Users\yigit\source\repos\Ziggy's KeyGen\Ziggy's KeyGen\obj\Release\Ziggy's KeyGen.exe
